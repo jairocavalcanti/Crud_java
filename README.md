@@ -5,7 +5,7 @@ Ferramentas utilizadas:
 - MYSQL (Banco de dados)
 - Postman (Teste de requisições)
 
-Todas as 4 operções testadas: 
+Todas as 4 operações testadas (postman): 
 - Inserção
 - Leitura (read)
 - Alteração
