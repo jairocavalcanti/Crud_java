@@ -1,8 +1,9 @@
 # Crud_java 
 
 Ferramentas utilizadas:
-- Spring boot (framework java)
-- MYSQL(banco de dados)
+- Spring boot (Framework java)
+- MYSQL(Banco de dados)
+- Postman(Teste de requisições)
 
 Todas as 4 operções testadas: 
 - Inserção
