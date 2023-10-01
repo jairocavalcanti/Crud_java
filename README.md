@@ -1,2 +1,11 @@
 # Crud_java 
-crud java com spring boot e mysql
+
+Ferramentas utilizadas:
+-Spring boot (framework java)
+-MYSQL(banco de dados)
+
+Todas as 4 operções testadas: 
+- Inserção
+- Leitura(read)
+- Alteração
+- Exclusão
